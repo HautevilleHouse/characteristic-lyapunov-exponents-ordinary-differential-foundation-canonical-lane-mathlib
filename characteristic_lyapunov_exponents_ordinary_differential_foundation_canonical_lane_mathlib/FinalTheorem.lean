@@ -1,0 +1,9 @@
+import characteristic_lyapunov_exponents_ordinary_differential_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace characteristic_lyapunov_exponents_ordinary_differential_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end characteristic_lyapunov_exponents_ordinary_differential_foundation_canonical_lane_mathlib
+end HautevilleHouse
